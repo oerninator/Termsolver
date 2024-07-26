@@ -6,7 +6,6 @@ TermSolver is a simple Java application that evaluates mathematical expressions 
 ## Features
 
 - Evaluates mathematical expressions with basic arithmetic operators.
-- Supports parentheses to define operation precedence.
 - Handles both integer and floating-point arithmetic.
 
 ## Installation
@@ -72,7 +71,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please contact us at info@termsolver.com.
+For any questions or suggestions, please contact me at arneseufert@web.de.
 
 ---
 
